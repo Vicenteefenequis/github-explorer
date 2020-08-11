@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a>
-    <img alt="Github Explore" title="Github Explore" src="../github/logo.svg" width="450">
+    <img alt="Github Explore" title="Github Explore" src=".github/logo.svg" width="450">
   </a>
 </p>
 
@@ -46,11 +46,11 @@ A few of the things you can do with Github Explorer:
 - Portuguese/English support (COMING SOON)
 
 <p align="center">
-  <img src = "../dashboard.png" alt="Splash-Screen of Dashboard" width=700>
+  <img src = ".github/dashboard.png" alt="Splash-Screen of Dashboard" width=700>
 </p>
 
 <p align="center">
-  <img src = "../issue.png" alt="Splash-Screen of Issues" width=700>
+  <img src = ".github/issues.png" alt="Splash-Screen of Issues" width=700>
 </p>
 
 <br>
